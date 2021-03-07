@@ -11,6 +11,7 @@ public class Kozhevik {
             while(i<=n){
                 result=result*i;
                 i++;
+
             }
         }
 
